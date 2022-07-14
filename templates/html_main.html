@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>html_main</title>
+</head>
+<font color='#ff0000' size="5" >
+    <marquee><b><i>Hi Welcome to Licence Plate text extraction Web Page! For query Contact Ashish ☺ </i></b></marquee>
+</font>
+
+<body background="bg2.jpg">
+<br />
+    <h1 align="center" >Licence Plate Text extraction in moving vehicle!</h1>
+<div>
+<span class="srtbtn">
+    <form action="{{url_for('start')}}" method="POST">
+        <button type="submit" onclick="alert('Video Capturing start !')">Start Capturing Video
+        </button>
+    </form>
+</span>
+
+<span class="stopbtn">
+    <form action="{{url_for('stop')}}" method="POST">
+    <button type="submit" onclick="alert('You want to stop the video !')" >Stop Capturing Video
+        </button>
+    </form>>
+</span>
+</div>
+</body>
+</html>
