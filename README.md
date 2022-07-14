@@ -2,4 +2,4 @@
 Get vehicle number plate from high speed moving vehicle.
 
 ## Weights download link:
-[ google drive link] ...(https://drive.google.com/drive/folders/1r8IrHBIlpPucurqP6BqdjJgCSxcIyUM9?usp=sharing)
+( https://drive.google.com/drive/folders/1r8IrHBIlpPucurqP6BqdjJgCSxcIyUM9?usp=sharing )
