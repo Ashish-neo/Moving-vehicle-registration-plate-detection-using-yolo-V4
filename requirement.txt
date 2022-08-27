@@ -1,0 +1,4 @@
+cv2
+easyocr
+flask
+numpy
