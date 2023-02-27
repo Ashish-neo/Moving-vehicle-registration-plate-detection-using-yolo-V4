@@ -3,5 +3,7 @@ Get vehicle number plate from high speed moving vehicle.
 
 ## Weights download link:
 ( https://drive.google.com/drive/folders/1r8IrHBIlpPucurqP6BqdjJgCSxcIyUM9?usp=sharing )
+
+To watch live Demo :-- (https://youtu.be/WCUouL99bs8 )
  
  Thanks ....
